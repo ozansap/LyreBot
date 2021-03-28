@@ -25,7 +25,7 @@ For key, value in songs
 songsList := RTrim(songsList, "|")
 
 Gui, Font, S12 CDefault Bold, Verdana
-Gui, Add, Text, x12 y9 w450 h20, % "You are using LyreBot version 1.0"
+Gui, Add, Text, x12 y9 w450 h20, % "You are using LyreBot version 0.1"
 
 Gui, Font, S10 CDefault Norm, Verdana
 
