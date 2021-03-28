@@ -17,4 +17,4 @@ Choose your keyboard configuration and the song you want to play on the screen t
 
 After the song ends, you can press `+` on your keypad to choose a new song. You can press `-` on your keypad anytime to exit the script.
 
-#### *NOTICE: This macro is fan made and is not affiliated with Genshin Impact or miHoYo in any way.*
+#### *NOTICE: This software is fan made and is not affiliated with Genshin Impact or miHoYo in any way.*
