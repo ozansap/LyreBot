@@ -1,8 +1,5 @@
 # LyreBot
 
-> ### **If you are an employer:**
-> This is my second project with AutoHotkey. This one is much more complicated compared to the first one. I made use of multiple different scripts and went for a more modular approach because I planned to add more songs that the macro would be able to play. With the current setup it is really easy to add new keyboard configurations to work on computers with different key layouts such as the russian keyboard. It is also really easy to add new songs. But I will not continue working on this project.
-
 #### *__NOTICE:__ You will get banned for using scripts to interact with Genshin Impact. This is a project I worked on for fun. I am not responsible if you get banned.*
 
 This is an AutoHotkey macro that plays songs on the Lyre gadget recently added to Genshin Impact. Similar to LuteBot made for Mordhau. The only song that can be played right now is Coffin Dance, which is incomplete.
